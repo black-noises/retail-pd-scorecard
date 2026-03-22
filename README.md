@@ -1,6 +1,6 @@
-# Retail Customer PD Scorecard
+# Retail Customer CD Scorecard
 
-A simple Predictive Default (PD) scorecard for retail customers using Random Forest.
+A simple Credit Default (CD) scorecard for retail customers using Random Forest.
 
 ## Project Overview
 This project demonstrates how to build a credit scoring model for retail customers using machine learning techniques.

@@ -1,6 +1,6 @@
 """
-Retail Customer PD Scorecard - Python Script Version
-A simple Predictive Default (PD) scorecard for retail customers using Random Forest.
+Retail Customer CD Scorecard - Python Script Version
+A simple Credit Default (CD) scorecard for retail customers using Random Forest.
 """
 
 import pandas as pd
